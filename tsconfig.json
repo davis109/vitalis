@@ -1,0 +1,3 @@
+{
+  "extends": "@vitalis-ai/config/tsconfig.base.json"
+}
